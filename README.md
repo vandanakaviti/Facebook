@@ -12,3 +12,6 @@ Welcome to The Facebook Project. It aims to provide the following functionalitie
     * Search profiles
     * Sort profiles by names
     * Create timeline
+
+## Running the file
+- [x] Run the "FacebookView.java" file to start the project
