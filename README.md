@@ -14,4 +14,4 @@ Welcome to The Facebook Project. It aims to provide the following functionalitie
     * Create timeline
 
 ## Running the file
-- [x] Run the "FacebookView.java" file to start the project
+Run the [FacebookView](https://github.com/vandanakaviti/Facebook/blob/master/facebook/src/facebook/view/FacebookView.java) file to start the project
