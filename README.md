@@ -35,7 +35,7 @@ _Facebook Entity Layer_
    - [ ] _Facebook Timeline_
    - [ ] _Facebook User_
 
-_Facebook Service Layerr_
+_Facebook Service Layer_
    - [ ] _Facebook Service_
    - [ ] _Facebook Service Interface_
    - [ ] _Facebook Service Test_
