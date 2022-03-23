@@ -146,8 +146,8 @@ class DAOTest {
 	}
 
 	@Test
-	void testSortProfileDAO() {
-		System.out.println("SORTING PROFILE DAO TEST");
+	void testCreateTimelineDAO() {
+		System.out.println("CREATING TIMELINE DAO TEST");
 		Scanner s = new Scanner(System.in);
 		System.out.print("Enter message id : ");
 		String message_id = s.next();
